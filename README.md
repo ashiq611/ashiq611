@@ -121,7 +121,7 @@
 <p align="center">
  <a href="https://github.com/ashiq611"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiq611&theme=dark"></a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/ashiq611"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashiq611&layout=compact&theme=radical" />
 </a>
 
