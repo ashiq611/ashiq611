@@ -114,6 +114,16 @@
 
 </p>
 
+<br/>
+
+## GitHub Overview 💻
+
+<p align="center">
+ <a href="https://github.com/ashiq611"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiq611&theme=dark"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/ashiq611"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashiq611&layout=compact&theme=radical" />
+</a>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashiq611&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
