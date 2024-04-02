@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ashiq, a Frontend developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Ashiq, a Full Stack developer 👨‍💻 🚀</div>  
   
 
 - 🌱 I’m currently learning Node.js and MongoDB  
