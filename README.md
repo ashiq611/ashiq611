@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ashiq, a Full Stack developer 👨‍💻 🚀</div>  
   
 
-- 🌱 I’m currently learning Node.js and MongoDB  
+- 🌱 I’m currently learning Docker  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
